@@ -1,1 +1,1 @@
-When working in a fork, the upstream remote is the the designation of the original repository, which can be fetched from in order to keep your fork up to date.
+When working in (a clone of) a fork, the upstream remote is the the designation of the original repository, which can be fetched from in order to keep your fork up to date.
