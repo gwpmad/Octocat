@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The clone feature in git creates a copy of a specified repository. It's the equivalent of creating a new directory, doing git init and adding the original repository as an origin remote.
