@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an alternate version of your code, within the same project. It can be merged with the master branch, and users can switch between them with the checkout command.
